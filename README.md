@@ -1,4 +1,10 @@
-# 🖼️ ImageProcessingApp – MATLAB Image Processing Application
+<h1 align="center">
+  <img width="40" height="40" alt="download" src="https://github.com/user-attachments/assets/48aba0ce-fbfa-4261-ad12-a4d61e3b944e" /> 
+   ImageProcessingApp – MATLAB Image Processing Application
+</h1>
+
+
+
 
 ### 📚 Project Overview
 **ImageProcessingApp** is a MATLAB-based application developed using **App Designer** that provides an interactive graphical interface for performing various **image processing and analysis** operations.  
@@ -73,15 +79,16 @@ It was created as part of the *“Traitement d’Images”* course at **Universi
    git clone https://github.com/<your-username>/ImageProcessingApp_matlab.git
    ```
 2. Open MATLAB.
-3. Launch `app1.mlapp` or load the provided `.m` file (`code_app.txt`) in App Designer.
+3. Launch `app1_converted.mlapp` .
 4. Click **Run** ▶️ to start the graphical application.
 5. Load an image and explore available filters and operations!
 
 ---
 
 ### 📸 Example Interface
-*(Include a screenshot of the app’s main window here)*  
-`![App Interface](screenshot.png)`
+*(screenshot of the app’s main window)*  
+<img width="1972" height="1330" alt="histogram" src="https://github.com/user-attachments/assets/6034e0b1-1b54-4a46-90af-1e564c8b9bc2" />
+
 
 ---
 
