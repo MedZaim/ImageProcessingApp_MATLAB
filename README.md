@@ -111,6 +111,13 @@ It was created as part of the *“Traitement d’Images”* course at **Universi
 
 ---
 
+### 📄 Project Report
+You can access the detailed project report here:  
+👉 [Rapport_ImageProcessingApp_matlab_MohamedZaim.pdf](https://github.com/user-attachments/files/23108322/Rapport_ImageProcessingApp_matlab_MohamedZaim.pdf)
+
+
+---
+
 ### 📜 License
 This project is released under the **MIT License**.  
 Feel free to use, modify, and distribute with attribution.
