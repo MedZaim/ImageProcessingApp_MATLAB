@@ -8,7 +8,7 @@
 
 ### 📚 Project Overview
 **ImageProcessingApp** is a MATLAB-based application developed using **App Designer** that provides an interactive graphical interface for performing various **image processing and analysis** operations.  
-It was created as part of the *“Traitement d’Images”* course at **Université Sidi Mohamed Ben Abdellah – Fès**, under the supervision of **Pr. Hamid Tairi**, by **Mohamed Zaim** (Master MLAIM 2024/2025).
+It was created as part of the *“Traitement d’Images”* course at **Université Sidi Mohamed Ben Abdellah – Fès**, under the supervision of **Pr. [Hamid Tairi](https://scholar.google.com/citations?user=eBF5ZcwAAAAJ&hl=fr)**, by **[Mohamed Zaim](https://www.linkedin.com/in/mohamed-zaim-a68a602bb/)** (Master MLAIM 2024/2025).
 
 ---
 
