@@ -18,8 +18,15 @@ It was created as part of the *“Traitement d’Images”* course at **Universi
 - Allow real-time **visualization and comparison** of results.  
 - Strengthen understanding of **image enhancement, filtering, and feature detection**.
 
----
+--- 
 
+
+### 📸 Example Interface
+*(screenshot of the app’s main window)*  
+<img width="1972" height="1330" alt="histogram" src="https://github.com/user-attachments/assets/6034e0b1-1b54-4a46-90af-1e564c8b9bc2" />
+
+
+---
 ### ⚙️ Features
 
 #### 🧩 1. Spatial Transformations
@@ -85,12 +92,6 @@ It was created as part of the *“Traitement d’Images”* course at **Universi
 
 ---
 
-### 📸 Example Interface
-*(screenshot of the app’s main window)*  
-<img width="1972" height="1330" alt="histogram" src="https://github.com/user-attachments/assets/6034e0b1-1b54-4a46-90af-1e564c8b9bc2" />
-
-
----
 
 ### 🧪 Sample Operations
 | Operation | Description |
